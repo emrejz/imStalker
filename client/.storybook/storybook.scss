@@ -1,0 +1,10 @@
+html,
+body {
+  margin: 10px;
+  background-color: gray;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
