@@ -1,0 +1,6 @@
+export { default as İnstagram } from './İnstagram'
+export { default as Search } from './Search'
+export { default as Streamer } from './Streamer'
+export { default as Twitch } from './Twitch'
+export { default as Twitter } from './Twitter'
+export { default as Youtube } from './Youtube'
